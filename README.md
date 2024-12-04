@@ -5,8 +5,8 @@ This repository contains the implementation of a machine learning project aimed 
 
 ## 📁 Project Structure  
 The repository is organized as follows:  
-- **sector_51_daily_aqi** : Contains the raw and cleaned datasets.  
-- **Model** : Jupyter notebook documenting the entire workflow, scripts for data cleaning, feature engineering, and model building.  
+- **sector_51_daily_aqi.csv** : Contains the raw and cleaned datasets.  
+- **Model.ipynb** : Jupyter notebook documenting the entire workflow, scripts for data cleaning, feature engineering, and model building.  
 - **README.md** : Project documentation (you’re here!).  
 
 ## 📝 Problem Statement  
